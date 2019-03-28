@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Uygulama.jnlp">
+  <information>
+    <title>Uygulama</title>
+    <vendor>asus-pc</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Uygulama.jar" size="6245" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="uygulama.Uygulama"  name="Uygulama" />
+  <update check="always"/>
+</jnlp>
