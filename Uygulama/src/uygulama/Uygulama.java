@@ -19,7 +19,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author asus-pc
+ * @author simay
  */
 public class Uygulama extends Application {
     
